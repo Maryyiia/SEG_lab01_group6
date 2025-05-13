@@ -1,2 +1,2 @@
-# SEG_lab01
-the first SEG lab, created by Mariia!
+# SEG_lab01_group6
+This is the first SEG lab!
