@@ -1,6 +1,7 @@
-# SEG_lab01_group6
-This is the first SEG lab!
-#Heading one 
- ##Heading two, why not 
- ###OMG IT'S HEADING 3 git status
-"\n Dany: Hello yalls this is a test of editing readme.md through command prompt" 
+## SEG_lab01_group6
+**This is the first SEG2105 lab!**
+# Process Overview
+1. added all {name}.txt files
+2. committed many versions of team.txt with some conflict warnings
+3. modified README.md (this file) showcasing the changes
+    3a. ???
